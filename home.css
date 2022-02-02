@@ -1,0 +1,13 @@
+body{
+    background-color: greenyellow;
+}
+
+#title {
+    color: darkgreen;
+    font-family: fantasy;
+}
+
+.paragraph-home {
+    font-family: serif;
+    color: black;
+}
